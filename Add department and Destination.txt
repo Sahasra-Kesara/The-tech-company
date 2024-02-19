@@ -1,0 +1,8 @@
+Department: IT	Designation: devops Engineering
+
+Department: Stock	Designation: stock Manager
+
+Department: IT	Designation: Tech Lead
+
+Department: Labour	Designation: Capenter
+
